@@ -8,3 +8,5 @@ https://www.ithome.com/html/win10/374942.htm
 https://www.jianshu.com/p/1329954aa329/
 ### zeebe_operation_in_doctor_environment_tutorial
 https://docs.camunda.io/docs/product-manuals/zeebe/deployment-guide/docker/install
+### build_child-system-Linux_in_Windows_10
+https://docs.microsoft.com/zh-tw/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
