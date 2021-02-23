@@ -10,3 +10,5 @@ https://www.jianshu.com/p/1329954aa329/
 https://docs.camunda.io/docs/product-manuals/zeebe/deployment-guide/docker/install
 ### build_child-system-Linux_in_Windows_10  2021/14:03
 https://docs.microsoft.com/zh-tw/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+### run Zeebe with Docker 2021/14:16
+docker run --name zeebe -p 26500-26502:26500-26502 camunda/zeebe:latest
