@@ -5,3 +5,5 @@ https://www.cnblogs.com/Eugene-Jin/p/13100082.html
 https://blog.csdn.net/qq_30739519/article/details/89525154
 ### get_zeebe_go_client_end
 go get github.com/zeebe-io/zeebe/clients/go
+### go_make&new_comparison
+https://draveness.me/golang/docs/part2-foundation/ch05-keyword/golang-make-and-new/
