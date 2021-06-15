@@ -15,3 +15,7 @@ https://docs.microsoft.com/zh-tw/windows/wsl/install-win10#step-4---download-the
 docker run --name zeebe -p 26500-26502:26500-26502 camunda/zeebe:latest
 #### **bpmn_diagram_tutorial
 https://www.youtube.com/watch?v=BwkNceoybvA&ab_channel=Lucidchart
+```javascript
+var s = "JavaScript 語法高亮";
+alert(s);
+```
