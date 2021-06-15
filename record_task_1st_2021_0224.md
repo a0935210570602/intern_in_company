@@ -19,3 +19,8 @@ https://www.youtube.com/watch?v=BwkNceoybvA&ab_channel=Lucidchart
 var s = "JavaScript 語法高亮";
 alert(s);
 ```
+
+```python
+s = "Python 語法高亮"
+print s
+```
